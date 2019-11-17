@@ -11,4 +11,6 @@
 ####2_5####\
 ![](https://github.com/xwr96/Cpp-Primer-Plus/blob/master/ch02/results/5.png)\
 ####2_6####\
+![](https://github.com/xwr96/Cpp-Primer-Plus/blob/master/ch02/results/6.png)\
+####2_7####\
 ![]()
